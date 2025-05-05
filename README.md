@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌱 I’m currently learning Rust and advanced C++ (Python, WebDev, Java)<br>  <br>  📫 How to reach me florian.pongritz@protonmail.com</p> <br>(Ignore the temporary public repos please)<br>
+<p align="left">🌱 I’m currently learning Rust, C# API Development and Android Development (Python, WebDev, Java)<br>  <br>  📫 How to reach me florian.pongritz@protonmail.com</p>
 
 ###
 
